@@ -1,0 +1,24 @@
+{
+  "name": "bambulabx1c-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard containing various informatics regarding the BambuLab X1 Carbon 3D printer",
+  "main": "mqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoYoo9442/BambuLabX1C-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoYoo9442/BambuLabX1C-dashboard/issues"
+  },
+  "homepage": "https://github.com/JoYoo9442/BambuLabX1C-dashboard#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mqtt": "^4.3.7"
+  }
+}
